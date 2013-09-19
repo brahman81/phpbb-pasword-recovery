@@ -10,4 +10,4 @@ This file needs to contain 1 password per line
 
 This file needs to contain 1 users details per line and be in the following format:
 
-    username : $H$9NLz9hn9gYbUlak7GOeY5rCcVjsrgH/
+    username : $H$9NLz9hn9gYbUlax7aOeY2rCcVjsrgH/
